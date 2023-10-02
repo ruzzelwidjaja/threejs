@@ -1,5 +1,5 @@
 
-# Custom Shirt 3D Model Showcase 🎨 🤌
+# 🎨 Custom Shirt 3D Model Showcase 🤌
 
 This web application showcases a 3D model of a shirt created using Three.js, Framer Motion, and DALL·E AI API.
 
@@ -7,7 +7,7 @@ This web application showcases a 3D model of a shirt created using Three.js, Fra
 
 This project is based on a tutorial by [JavaScriptMastery](https://www.youtube.com/@javascriptmastery). You can find the original tutorial on this [link](https://youtu.be/ZqEa8fTxypQ?si=nFi_27eeK1EBVOYH).
 
-# Demo 🎥 👇
+## 🎥 Demo 👇
 
 <div style="display: flex; justify-content: space-around;">
   <a href="https://www.youtube.com/watch?v=40N9ku7HXLY">
@@ -19,7 +19,7 @@ This project is based on a tutorial by [JavaScriptMastery](https://www.youtube.c
 </div>
 
 
-## Features 🌟
+## 🌟 Features 
 
 - **Interactive 3D Shirt Model**: Explore a high-quality 3D representation of a shirt that rotates based on the cursor position.
 
@@ -32,7 +32,7 @@ This project is based on a tutorial by [JavaScriptMastery](https://www.youtube.c
 - **AI Image Generation**: OpenAI's DALL·E integration allows generating a unique image be used as a logo or full shirt decal by inserting a text prompt.
 
 
-## Technologies Used 🚀
+## 🚀 Technologies Used 
 
 - Frontend: React, Three.js, Framer Motion, Valtio, Tailwind CSS.
 
