@@ -36,5 +36,5 @@ This project is based on a tutorial by [JavaScriptMastery](https://www.youtube.c
 
 - Frontend: React, Three.js, Framer Motion, Valtio, Tailwind CSS.
 
-- Backend: Node.js, Express.js, Cloudinary, OpenAI DALL·E API
+- Backend: Node.js, Express.js, OpenAI DALL·E API
 
